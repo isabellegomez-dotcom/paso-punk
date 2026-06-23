@@ -1,0 +1,9 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,muralpunk,0.5,0.5,1,,Where is this mural located?,"This mural is located in Castilla in Comuna 5 of Medellín, Colombia. It is painted on a wall of the Instituto Pedagógico Alfa, which is an elementary school from years 1-5. ",,,,,,,,
+2,muralpunk,0.5228982100827188,0.5079377665736287,2,,Who are the people in this mural?,"This mural depicts the punk scene of Medellín during the 1980s and 1990s, marking a period of artistic creativity as well as a period of extreme violence in Colombia. ",,Learn more,mural-imvr-punk-and-violence.md,,,,,
+3,muralpunk,0.2124952041957554,0.47944677657351775,2.300510609597925,,Why is this mural in black and white?,"This mural being in black and white alludes to the typical clothing style of the Medellín punk scene during this time. This style emerged as a butterfly effect of ""punk's"" origins in Europe. Punks in Europe wore bright colors, but the photos people received in Colombia were in black and white, thus making the style follow these colors. ",,,,,,,,
+4,muralpunk,0.6955205683920935,0.5122663313773155,4,,What type of clothes are they wearing?,"You might notice that the people in this image are wearing a wide variety of clothing styles. While the punk aesthetic was not uniform in this context, the main idea of this style was to provoke people, reclaiming the narrative that punk is ""dirty"" and ""ugly."" ",,,,,,,,
+5,muralpunk,0.5193540163963524,0.43202633423022474,2.68,,Where are they?,,,,,,,,,
+6,muralpunk,0.39612205941042516,0.5578326973897184,5.124773022049287,,"What does ""caminata punk"" mean?",,,,,,,,,
+7,muralpunk,0.5825555573621426,0.45672929110657734,5.124773022049287,,What might they be dancing to?,,,,,,,,,
